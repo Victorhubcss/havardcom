@@ -1,0 +1,28 @@
+/* 
+primary-color = #ceddf4
+button-color = #408af4
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background: #ceddf4;
+    height: 100VH;
+}
+
+
+
+.hero-right img{
+    height: 350px;
+}
+
+/* 
+units
+px 
+%
+vh -viewport height
+vw - viewport width
+*/
