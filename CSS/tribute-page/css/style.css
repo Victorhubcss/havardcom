@@ -114,7 +114,11 @@ border: 1px solid #0f0344;
 color: #0f0344;
 cursor:pointer;
 /* box-shadow: x-axis y-axis offset blur color; */
+/* transition: all .2s ease-in-out; */
 transition: all .2s ease-in-out;
+
+
+
 }
 
 .courses__card--right button:hover{
